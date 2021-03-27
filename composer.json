@@ -14,7 +14,7 @@
     "class": "Mautic\\Composer\\Plugin\\ProjectMessage\\MessagePlugin"
   },
   "require": {
-    "php": ">=7.3.0",
+    "php": ">=7.4.0 <8.1",
     "composer-plugin-api": "^1.1 || ^2"
   }
 }
